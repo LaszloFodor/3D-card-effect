@@ -1,4 +1,4 @@
-# 3D-card-effect
+# 3D card effect
 
 ![preview1](./preview/preview1.png)
 
